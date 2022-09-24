@@ -1,0 +1,6 @@
+{
+    "extends": "./cypress.json",
+    "baseUrl": "https://in.search.yahoo.com",
+    "username":"sara",
+    "password":"sara123"
+}

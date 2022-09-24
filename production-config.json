@@ -1,0 +1,6 @@
+{
+    "extends": "./cypress.json",
+    "baseUrl": "https://youtube.com",
+    "username":"supriyatajane2015@gmail.com",
+    "password":"supriya"
+}
